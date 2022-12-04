@@ -1,0 +1,25 @@
+<html>
+	<head><title>LucaZanetti</title>	
+	</head>
+	<body style="background-color:Grey"
+		<h1>Benvenuto!</h1>
+			<nav>
+				<ul>
+					<li><a href=" ./viaggi.html">viaggi</a></li>
+					<li><a href=" ./contattiL.html">contatti</a></li>
+				</ul>
+				<section>
+				
+			</nav>
+		<h1>SOLO PER OGGI ABBIAMO DEGLI SCONTI!!</h1>
+		
+		<br><p>Le offriamo un fantastico viaggio a Rio de Janeiro: <a href=" ./Rio.De.Janeiro.html">Rio De Janeiro</a></li></a></li></p> </br>
+		<img src="https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_1300,q_auto,w_2000/itemimages/10/47/104776_v7.jpeg" alt="sciatore" width="500" height="300"
+		
+		<br><p>Imperdibile anche l'uscita in Costa d'Avorio: <a href=" ./Costa.D.Avorio.html">Costa D'Avorio</a></li></p> </br>
+		<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/c5/c3/38/san-pedro.jpg?w=700&h=-1&s=1" alt="sciatore" width="500" height="300"
+		
+		
+		
+	</body>
+</html>
